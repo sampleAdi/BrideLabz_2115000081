@@ -6,3 +6,4 @@ Date: 28/01/2025 = Today I understood basic recursive function, static methods a
 Date: 29/01/2025 = Today I understood basic String java programs.
 Date: 29/01/2025 = Today I understood some another Built in function java programs.
 Date: 31/01/2025 = Today I understood some oop's based java programs.
+Date: 02/02/2025 = Today I understood some java Constructors, Instance vs. Class Variables, Access Modifiers programs.
