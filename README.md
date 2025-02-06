@@ -93,3 +93,14 @@ Day-10
   - Safe Type Checking with Instanceof – Use instanceof for safe type-checking and to prevent runtime errors during typecasting. This ensures that an object is of a specific type before performing operations on 
     it.
   - Practice Problems – [Bank Account System, Library Management System, Employee Management System, Shopping Cart System, University Student Management, Vehicle Registration System, Hospital Management System ]
+
+---
+
+Day-11 
+- 06-feb-2025  
+- Topics:  
+  - Method Creation & Reusability – Represent classes with method definitions in Class Diagrams, show object instantiation in Object Diagrams, and model method invocation flow in Sequence Diagrams.
+  - Advanced Method Handling – Use Class Diagrams for static and instance methods, illustrate recursive calls in Object Diagrams, and depict method execution order in Sequence Diagrams.
+  - Mathematical Computations – Include utility classes like Math in Class Diagrams, display objects using mathematical functions in Object Diagrams, and represent method calls in Sequence Diagrams.
+  - Practice Problems - [LibraryBooksAggregationDemo, BankAccountAssociationDemo, CompanyDepartmentCompositionDemo, SchoolStudentCourseDemo, UniversityFacultyDepartmentDemo, HospitalDoctorPatientDemo, 
+                         ECommercePlatform, UniversityManagementSystem]
