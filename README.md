@@ -113,3 +113,14 @@ Day-11
   - Constructor Inheritance – While constructors are not inherited, a subclass can invoke the parent class constructor using super().
   - Practice Problems – [Animal Hierarchy, Employee Management System, Vehicle and Transport System, Library Management with Books and Authors, Smart Home Devices
                           , Online Retail Order Management, Educational Course Hierarchy, Bank Account Types, School System with Different Roles, Restaurant Management System with Hybrid Inheritance, Vehicle                                Management System with Hybrid Inheritance.]
+
+---
+
+Day-13
+ - 10-Feb-2025
+ - Topics: 
+  - Encapsulation – Wrapping data and methods into a single unit while restricting direct access.
+  - Polymorphism – The ability of a method or object to take multiple forms in different contexts.
+  - Interface – A contract defining methods that implementing classes must provide without defining them.
+  - Abstract Classes - A class that cannot be instantiated and may contain both abstract and concrete methods.
+  - Practice Problems – [Employee Management System, ECommercePlatform, VehicleRentalSystem, BankingSystem, LibraryManagementSystem, OnlineFoodDeliverySystem, HospitalPatientManagement, RideHailingApplication.]
