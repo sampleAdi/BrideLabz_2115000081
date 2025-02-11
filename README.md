@@ -124,3 +124,17 @@ Day-13
   - Interface – A contract defining methods that implementing classes must provide without defining them.
   - Abstract Classes - A class that cannot be instantiated and may contain both abstract and concrete methods.
   - Practice Problems – [Employee Management System, ECommercePlatform, VehicleRentalSystem, BankingSystem, LibraryManagementSystem, OnlineFoodDeliverySystem, HospitalPatientManagement, RideHailingApplication.]
+
+    ---
+
+Day-14
+ - 11-Feb-2025
+ - Topics: 
+  - Introduction of data structures – Data structures are ways to store and organize data efficiently for operations like access, insertion, and deletion.
+  - Key features – Java provides built-in data structures with dynamic memory allocation, type safety, and efficient operations.
+  - Types of data structure – Java supports linear (arrays, linked lists, stacks, queues) and non-linear (trees, graphs) data structures.
+  - Single Linked List - A linked list where each node has data and a pointer to the next node.
+  - Double Linked List - A linked list where each node has pointers to both the previous and next nodes.
+  - Circular Linked List - A linked list where the last node connects back to the first node, forming a cycle.
+  - Practice Problems – [TicketReservationApp, TextEditorApp, StudentManangement, MovieManagement, TaskManager, InventoryManager, LibraryManagementSystem, RoundRobinScheduling, SocialMediaApp].
+
