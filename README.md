@@ -138,3 +138,16 @@ Day-14
   - Circular Linked List - A linked list where the last node connects back to the first node, forming a cycle.
   - Practice Problems – [TicketReservationApp, TextEditorApp, StudentManangement, MovieManagement, TaskManager, InventoryManager, LibraryManagementSystem, RoundRobinScheduling, SocialMediaApp].
 
+---
+
+Day-15
+  - 13-feb-2025
+ - Topics: 
+  - Stack – Learned about LIFO (Last In, First Out) structure and its operations.
+  - Queue – Understood FIFO (First In, First Out) principle and its implementations.
+  - HasMap – Explored key-value pair storage and efficient lookups.
+  - Hashing- Learned how hashing ensures quick data access and avoids collisions.
+  - Practice Problems – [CircularTour, CustomHasMap, LongestConsecutiveSequence, PairWithGivenSum, QueueUsingStacks, SlidingWindowMaximum, SortStackRecursively, StockSpan, TwoSum, ZeroSumSubarrays].
+
+
+
