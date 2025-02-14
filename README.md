@@ -149,5 +149,20 @@ Day-15
   - Hashing- Learned how hashing ensures quick data access and avoids collisions.
   - Practice Problems – [CircularTour, CustomHasMap, LongestConsecutiveSequence, PairWithGivenSum, QueueUsingStacks, SlidingWindowMaximum, SortStackRecursively, StockSpan, TwoSum, ZeroSumSubarrays].
 
+---
+
+Day-16
+  - 14-feb-2025
+ - Topics: 
+  - Bubble Sort – Repeatedly swaps adjacent elements if they are in the wrong order until the array is sorted..
+  - Insertion Sort – Inserts each element into its correct position by shifting larger elements in a sorted portion of the array.
+  - Merge Sort – Recursively divides the array into halves, sorts them, and merges them back in order.
+  - Quick Sort - Selects a pivot, partitions elements into smaller and greater subarrays, and sorts them recursively.
+  - Selection Sort - Repeatedly selects the smallest element from the unsorted part and swaps it with the first unsorted element.
+  - Heap Sort - Builds a max heap, extracts the maximum element, places it at the end, and reheapifies until sorted.
+  - Counting Sort -  Uses a frequency array to count occurrences, determines positions, and places elements in sorted order.
+  - Practice Problems – [BubbleSortStudentMarks, CountingSortStudentAges, HeapSortSalary, InsertionSortEmployeeIDs, MergeSortBookPrices, QuickSortProductPrices, SelectionSortExamScores].
+
+
 
 
