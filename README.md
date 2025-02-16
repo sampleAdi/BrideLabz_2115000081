@@ -163,6 +163,17 @@ Day-16
   - Counting Sort -  Uses a frequency array to count occurrences, determines positions, and places elements in sorted order.
   - Practice Problems – [BubbleSortStudentMarks, CountingSortStudentAges, HeapSortSalary, InsertionSortEmployeeIDs, MergeSortBookPrices, QuickSortProductPrices, SelectionSortExamScores].
 
+---
 
+Day-16
+  - 16-feb-2025
+ - Topics: 
+  - StringBuilder – A mutable sequence of characters used for efficient string manipulation in Java.
+  - StringBuffer – A thread-safe alternative to StringBuilder for modifying strings in multi-threaded environments.  
+  - FileReader – A Java class used for reading character files efficiently.
+  - InputStreamReader- A bridge between byte streams and character streams, allowing conversion of byte input to characters.  
+  - Linear Search- A simple searching algorithm that checks each element in a list sequentially.  
+  - Binary Search- A fast searching algorithm that works on sorted arrays by repeatedly dividing the search range in half.  
+  - Practice Problems – [ConcatenateStrings, FileReaderExample, FirstLastOccurrenceBinarySearch, InputStreamReaderExample, LinearAndBinarySearch, LinearSearchNegative, LinearSearchWord, MatrixBinarySearch, PeakElementBinarySearch, PerformanceComparison, RemoveDuplicates, ReverseString, RotationPointBinarySearch, StringPerformanceComparison, UserInputToFile, WordCount].
 
 
