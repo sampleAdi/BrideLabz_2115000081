@@ -176,4 +176,13 @@ Day-16
   - Binary Search- A fast searching algorithm that works on sorted arrays by repeatedly dividing the search range in half.  
   - Practice Problems – [ConcatenateStrings, FileReaderExample, FirstLastOccurrenceBinarySearch, InputStreamReaderExample, LinearAndBinarySearch, LinearSearchNegative, LinearSearchWord, MatrixBinarySearch, PeakElementBinarySearch, PerformanceComparison, RemoveDuplicates, ReverseString, RotationPointBinarySearch, StringPerformanceComparison, UserInputToFile, WordCount].
 
+---
+
+Day-17
+  - 17-feb-2025
+ - Topics: 
+  - General Algorithm Best Practices - Implemented general algorithm best practices for optimized performance and readability.
+  - Time & Space Complexity Optimization – Understood and applied time & space complexity optimization techniques for efficient algorithms.
+  - Practice Problems – [DataStructureComparison, FibonacciComparison, FileReadingComparison, SearchComparison, SortingPerformanceComparison, StringConcatenationPerformance].
+
 
