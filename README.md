@@ -165,7 +165,7 @@ Day-16
 
 ---
 
-Day-16
+Day-17
   - 16-feb-2025
  - Topics: 
   - StringBuilder – A mutable sequence of characters used for efficient string manipulation in Java.
@@ -178,11 +178,19 @@ Day-16
 
 ---
 
-Day-17
+Day-18
   - 17-feb-2025
  - Topics: 
   - General Algorithm Best Practices - Implemented general algorithm best practices for optimized performance and readability.
   - Time & Space Complexity Optimization – Understood and applied time & space complexity optimization techniques for efficient algorithms.
   - Practice Problems – [DataStructureComparison, FibonacciComparison, FileReadingComparison, SearchComparison, SortingPerformanceComparison, StringConcatenationPerformance].
 
+---
 
+Day-19
+- 18-feb-2025 
+- Topics:
+  - Generics in Java enable compile-time type checking, ensuring that only compatible types are used and preventing runtime errors like ClassCastException.
+  - They allow the creation of reusable and flexible code by using type parameters that work with any object type.
+  - Additionally, generics eliminate the need for explicit type casting, making code cleaner and reducing the chances of runtime errors.
+  - Practice Problems – [Smart Warehouse Management System, Dynamic Online Marketplace,  Multi-Level University Course Management System, Personalized Meal Plan Generator, AI-Driven Resume Screening System.]
