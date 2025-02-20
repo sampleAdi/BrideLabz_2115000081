@@ -194,3 +194,19 @@ Day-19
   - They allow the creation of reusable and flexible code by using type parameters that work with any object type.
   - Additionally, generics eliminate the need for explicit type casting, making code cleaner and reducing the chances of runtime errors.
   - Practice Problems – [Smart Warehouse Management System, Dynamic Online Marketplace,  Multi-Level University Course Management System, Personalized Meal Plan Generator, AI-Driven Resume Screening System.]
+
+ ---
+
+ Day-20
+- 20-feb-2025 
+- Topics:
+  - A unified architecture for storing, processing, and manipulating groups of objects.
+  - A set of interfaces and classes in Java for handling data structures efficiently.
+  - Includes List, Set, Queue, Deque, and Map interfaces with various implementations.
+  - List maintains order and allows duplicates (ArrayList, LinkedList, Vector)
+  - Queue follows FIFO, while Deque allows insertion/removal from both ends.
+  - Map stores key-value pairs with unique keys (HashMap, LinkedHashMap, TreeMap).
+  - ArrayList is faster for access, LinkedList is better for insertions/deletions.
+  - Choose the right collection based on performance needs and use Generics for safety.
+  - Practice Problems – [Banking System, Binary Numbers Generator, Circular Buffer, Frequency Counter, Group By Department, Hospital Triage, Insurance Management System, Insurance Policy Management, Invert Map,       Main, Max Value Key Finder, Merge Maps, Nth Element From End, Remove Duplicates, Reverse List, Reverse Queue, Rotate List, Set Equality Check, Set Operations, Set To Sorted List, StackUsingQueues,                SubsetCheck, SymmetricDifference, VotingSystem, WordFrequencyCounter].
+
