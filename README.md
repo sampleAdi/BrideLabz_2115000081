@@ -209,4 +209,17 @@ Day-19
   - ArrayList is faster for access, LinkedList is better for insertions/deletions.
   - Choose the right collection based on performance needs and use Generics for safety.
   - Practice Problems – [Banking System, Binary Numbers Generator, Circular Buffer, Frequency Counter, Group By Department, Hospital Triage, Insurance Management System, Insurance Policy Management, Invert Map,       Main, Max Value Key Finder, Merge Maps, Nth Element From End, Remove Duplicates, Reverse List, Reverse Queue, Rotate List, Set Equality Check, Set Operations, Set To Sorted List, StackUsingQueues,                SubsetCheck, SymmetricDifference, VotingSystem, WordFrequencyCounter].
+ 
+  ---
+
+  Day-21
+- 21-feb-2025 
+- Topics:
+  - File Streams - Used for reading and writing data to files using FileInputStream and FileOutputStream.
+  - Object Streams -  Helps in storing and retrieving objects using ObjectOutputStream and ObjectInputStream.
+  - ByteArray Streams - Used for converting data into byte arrays with ByteArrayInputStream and ByteArrayOutputStream.
+  - Buffered Streams - Improves efficiency by using buffering, such as BufferedInputStream and BufferedOutputStream.
+  - Reader and Writer - Used for handling character-based data with FileReader, FileWriter, BufferedReader, and BufferedWriter.
+  - Practice Problems – [EfficientFileCopy, EmployeeSerialization, FileCopy, ImageByteArrayConversion, LargeFileReader, PipedStreamExample, StudentDataStream, UpperToLowerCaseConverter, UserInfoToFile,           
+     WordFrequencyCounter]
 
