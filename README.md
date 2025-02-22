@@ -243,4 +243,17 @@ Day-21
       
   Practice Problems – [AgeValidator, ArrayOperations, BankSystem, DivisionCalculator, DivisionWithFinally, ExceptionPropagation, FileReader1, FileReader2, InterestCalculator, NestedTryCatchExample].
 
+---
+
+Day-22
+- 22-feb-2025 
+- Topics: 
+  - regex metacharacters, quantifiers, and common patterns  
+  - email validation, password strength validation, and phone number format using regex  
+  - java regex api including pattern and matcher classes  
+  - important methods like find(), matches(), and replaceAll()  
+  - introduction to junit framework and its annotations  
+  - writing test cases and understanding the structure of a test class  
+  - assertions in junit for verifying expected outputs  
+  - Practice Problems – [BankAccount, Calculator, DatabaseConnection, DateFormatter, DivideByZeroManager, FileProcessor, ListManager, NumberUtils, PasswordValidator, PerformanceUtils, StringUtils,     TemperatureConverter, UserRegistration, CapitalizedWordExtractor, CensorBadWords, DateExtractor, EmailExtractor, ExtractCurrency, ExtractLanguages, FindRepeatingWords, HexColorValidator, LicensePlateValidator, LinkExtractor, SpaceNormalizer, UsernameValidator, ValidateCreditCard, ValidateIPAddress, ValidateSSN].
 
