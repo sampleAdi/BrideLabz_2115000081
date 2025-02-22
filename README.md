@@ -212,7 +212,7 @@ Day-19
  
   ---
 
-  Day-21
+Day-21
 - 21-feb-2025 
 - Topics:
   - File Streams - Used for reading and writing data to files using FileInputStream and FileOutputStream.
@@ -222,4 +222,25 @@ Day-19
   - Reader and Writer - Used for handling character-based data with FileReader, FileWriter, BufferedReader, and BufferedWriter.
   - Practice Problems – [EfficientFileCopy, EmployeeSerialization, FileCopy, ImageByteArrayConversion, LargeFileReader, PipedStreamExample, StudentDataStream, UpperToLowerCaseConverter, UserInfoToFile,           
      WordFrequencyCounter]
+
+  ---
+
+  Day-21_PartB
+- 21-feb-2025 
+- Topics:
+  Types of Exceptions
+    - Checked exceptions are checked at compile time, like IOException.
+    - Unchecked exceptions occur at runtime, like NullPointerException.
+    - Custom exceptions are user-defined exceptions for specific application needs.
+  Handling Exceptions
+    - Try-catch blocks handle exceptions by catching them in a catch block.
+    - Try-catch-finally blocks ensure code in finally runs regardless of exceptions.
+    - Try-with-resources statement automatically closes resources after execution.
+    - Throws clause declares exceptions a method might throw.
+    - Throw statement is used to explicitly throw an exception.
+  Creating custom exceptions
+    - Extending Exception Class allows creating a custom exception by extending Exception or RuntimeException.
+      
+  Practice Problems – [AgeValidator, ArrayOperations, BankSystem, DivisionCalculator, DivisionWithFinally, ExceptionPropagation, FileReader1, FileReader2, InterestCalculator, NestedTryCatchExample].
+
 
